@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rohan-portfolio/static/css/main.2cfa9529.css",
+    "main.js": "/rohan-portfolio/static/js/main.7da77d13.js",
+    "index.html": "/rohan-portfolio/index.html",
+    "main.2cfa9529.css.map": "/rohan-portfolio/static/css/main.2cfa9529.css.map",
+    "main.7da77d13.js.map": "/rohan-portfolio/static/js/main.7da77d13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cfa9529.css",
+    "static/js/main.7da77d13.js"
+  ]
+}
